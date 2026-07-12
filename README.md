@@ -21,7 +21,5 @@
 
 <br><br>
 
-[![](https://img.shields.io/badge/GitHub-181717)](https://github.com/USERNAME)
-[![](https://img.shields.io/badge/LinkedIn-0A66C2)](https://linkedin.com/in/YOURUSERNAME)
 
 </div>
